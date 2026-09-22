@@ -1,0 +1,10 @@
+#!/bin/bash
+#. "/shares/CIBIO-Storage/CM/cmstore/tools/anaconda3/etc/profile.d/conda.sh"
+#conda deactivate
+#conda activate anpan_env
+MKL_NUM_THREADS=2
+MKL_DYNAMIC=false
+OMP_NUM_THREADS=2
+OMP_DYNAMIC=false
+sgb=$1
+/shares/CIBIO-Storage/CM/cmstore/tools/anaconda3/envs/anpan_env/lib/R/bin/Rscript /shares/CIBIO-Storage/CM/scratch/users/aitor.blancomiguez/analyses/nw_metanalysis/scripts/anpan.R $sgb > ./anpan/${sgb}.o 2> ./anpan/${sgb}.e

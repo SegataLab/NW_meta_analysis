@@ -1,0 +1,239 @@
+Running MCMC with 4 sequential chains...
+
+Chain 1 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 1 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 1 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 1 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 1 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 1 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 1 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 1 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 1 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 1 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 1 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 1 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 1 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 1 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 1 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 1 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 1 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 1 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 1 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 1 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 1 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 1 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 1 finished in 752.7 seconds.
+Chain 2 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 2 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 2 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 2 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 2 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 2 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 2 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 2 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 2 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 2 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 2 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 2 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 2 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 2 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 2 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 2 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 2 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 2 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 2 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 2 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 2 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 2 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 2 finished in 138.8 seconds.
+Chain 3 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 3 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 3 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 3 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 3 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 3 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 3 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 3 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 3 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 3 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 3 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 3 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 3 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 3 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 3 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 3 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 3 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 3 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 3 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 3 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 3 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 3 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 3 finished in 821.5 seconds.
+Chain 4 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 4 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 4 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 4 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 4 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 4 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 4 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 4 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 4 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 4 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 4 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 4 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 4 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 4 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 4 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 4 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 4 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 4 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 4 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 4 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 4 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 4 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 4 finished in 340.2 seconds.
+
+All 4 chains finished successfully.
+Mean chain execution time: 513.3 seconds.
+Total execution time: 2055.0 seconds.
+
+Running MCMC with 4 sequential chains...
+
+Chain 1 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 1 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 1 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 1 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 1 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 1 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 1 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 1 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 1 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 1 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 1 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 1 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 1 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 1 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 1 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 1 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 1 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 1 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 1 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 1 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 1 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 1 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 1 finished in 4.0 seconds.
+Chain 2 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 2 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 2 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 2 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 2 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 2 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 2 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 2 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 2 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 2 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 2 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 2 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 2 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 2 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 2 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 2 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 2 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 2 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 2 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 2 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 2 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 2 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 2 finished in 4.1 seconds.
+Chain 3 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 3 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 3 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 3 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 3 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 3 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 3 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 3 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 3 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 3 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 3 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 3 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 3 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 3 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 3 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 3 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 3 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 3 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 3 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 3 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 3 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 3 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 3 finished in 4.0 seconds.
+Chain 4 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 4 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 4 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 4 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 4 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 4 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 4 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 4 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 4 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 4 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 4 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 4 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 4 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 4 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 4 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 4 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 4 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 4 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 4 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 4 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 4 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 4 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 4 finished in 4.8 seconds.
+
+All 4 chains finished successfully.
+Mean chain execution time: 4.2 seconds.
+Total execution time: 18.6 seconds.
+
+          elpd_diff se_diff
+pglmm_fit   0.0       0.0  
+base_fit  -29.9      54.2  
+Processing csv files: /shares/CIBIO-Storage/CM/scratch/users/aitor.blancomiguez/analyses/nw_metanalysis/scripts/tmp/Rtmplc5Lmu/cont_pglmm_noise_reg-202304241200-1-65cfd1.csv, /shares/CIBIO-Storage/CM/scratch/users/aitor.blancomiguez/analyses/nw_metanalysis/scripts/tmp/Rtmplc5Lmu/cont_pglmm_noise_reg-202304241200-2-65cfd1.csv, /shares/CIBIO-Storage/CM/scratch/users/aitor.blancomiguez/analyses/nw_metanalysis/scripts/tmp/Rtmplc5Lmu/cont_pglmm_noise_reg-202304241200-3-65cfd1.csv, /shares/CIBIO-Storage/CM/scratch/users/aitor.blancomiguez/analyses/nw_metanalysis/scripts/tmp/Rtmplc5Lmu/cont_pglmm_noise_reg-202304241200-4-65cfd1.csv
+
+Checking sampler transitions treedepth.
+38 of 4000 (0.95%) transitions hit the maximum treedepth limit of 10, or 2^10 leapfrog steps.
+Trajectories that are prematurely terminated due to this limit will result in slow exploration.
+For optimal performance, increase this limit.
+
+Checking sampler transitions for divergences.
+861 of 4000 (21.52%) transitions ended with a divergence.
+These divergent transitions indicate that HMC is not fully able to explore the posterior distribution.
+Try increasing adapt delta closer to 1.
+If this doesn't remove all divergences, try to reparameterize the model.
+
+Checking E-BFMI - sampler transitions HMC potential energy.
+The E-BFMI, 0.02, is below the nominal threshold of 0.30 which suggests that HMC may have trouble exploring the target distribution.
+If possible, try to reparameterize the model.
+
+The following parameters had fewer than 0.001 effective draws per transition:
+  sigma_resid, sigma_phylo, std_phylo_effects[470], std_phylo_effects[471], phylo_effect[470], phylo_effect[471], yrep[470], yrep[471], lin_pred[470], lin_pred[471]
+Such low values indicate that the effective sample size estimators may be biased high and actual performance may be substantially lower than quoted.
+
+The following parameters had split R-hat greater than 1.05:
+  beta[4], beta[12], beta[15], beta[17], beta[18], beta[20], beta[21], beta[23], beta[24], beta[28], sigma_resid, sigma_phylo, std_phylo_effects[4], std_phylo_effects[5], std_phylo_effects[6], std_phylo_effects[9], std_phylo_effects[15], std_phylo_effects[18], std_phylo_effects[19], std_phylo_effects[21], std_phylo_effects[27], std_phylo_effects[29], std_phylo_effects[31], std_phylo_effects[33], std_phylo_effects[34], std_phylo_effects[36], std_phylo_effects[37], std_phylo_effects[39], std_phylo_effects[40], std_phylo_effects[41], std_phylo_effects[44], std_phylo_effects[45], std_phylo_effects[46], std_phylo_effects[47], std_phylo_effects[48], std_phylo_effects[53], std_phylo_effects[55], std_phylo_effects[56], std_phylo_effects[61], std_phylo_effects[62], std_phylo_effects[63], std_phylo_effects[64], std_phylo_effects[68], std_phylo_effects[69], std_phylo_effects[71], std_phylo_effects[73], std_phylo_effects[74], std_phylo_effects[75], std_phylo_effects[76], std_phylo_effects[77], std_phylo_effects[78], std_phylo_effects[81], std_phylo_effects[82], std_phylo_effects[85], std_phylo_effects[87], std_phylo_effects[88], std_phylo_effects[89], std_phylo_effects[90], std_phylo_effects[95], std_phylo_effects[96], std_phylo_effects[97], std_phylo_effects[99], std_phylo_effects[100], std_phylo_effects[102], std_phylo_effects[105], std_phylo_effects[106], std_phylo_effects[109], std_phylo_effects[112], std_phylo_effects[115], std_phylo_effects[116], std_phylo_effects[117], std_phylo_effects[118], std_phylo_effects[122], std_phylo_effects[124], std_phylo_effects[125], std_phylo_effects[126], std_phylo_effects[128], std_phylo_effects[131], std_phylo_effects[133], std_phylo_effects[135], std_phylo_effects[138], std_phylo_effects[139], std_phylo_effects[140], std_phylo_effects[141], std_phylo_effects[142], std_phylo_effects[144], std_phylo_effects[145], std_phylo_effects[146], std_phylo_effects[147], std_phylo_effects[148], std_phylo_effects[151], std_phylo_effects[152], std_phylo_effects[153], std_phylo_effects[154], std_phylo_effects[155], std_phylo_effects[156], std_phylo_effects[159], std_phylo_effects[161], std_phylo_effects[167], std_phylo_effects[172], std_phylo_effects[174], std_phylo_effects[175], std_phylo_effects[176], std_phylo_effects[177], std_phylo_effects[179], std_phylo_effects[180], std_phylo_effects[182], std_phylo_effects[184], std_phylo_effects[185], std_phylo_effects[190], std_phylo_effects[191], std_phylo_effects[192], std_phylo_effects[193], std_phylo_effects[194], std_phylo_effects[196], std_phylo_effects[198], std_phylo_effects[199], std_phylo_effects[200], std_phylo_effects[201], std_phylo_effects[203], std_phylo_effects[205], std_phylo_effects[211], std_phylo_effects[213], std_phylo_effects[215], std_phylo_effects[216], std_phylo_effects[218], std_phylo_effects[219], std_phylo_effects[221], std_phylo_effects[222], std_phylo_effects[223], std_phylo_effects[224], std_phylo_effects[225], std_phylo_effects[226], std_phylo_effects[230], std_phylo_effects[231], std_phylo_effects[232], std_phylo_effects[234], std_phylo_effects[236], std_phylo_effects[238], std_phylo_effects[239], std_phylo_effects[241], std_phylo_effects[242], std_phylo_effects[246], std_phylo_effects[247], std_phylo_effects[248], std_phylo_effects[254], std_phylo_effects[260], std_phylo_effects[261], std_phylo_effects[262], std_phylo_effects[263], std_phylo_effects[264], std_phylo_effects[265], std_phylo_effects[266], std_phylo_effects[268], std_phylo_effects[273], std_phylo_effects[275], std_phylo_effects[276], std_phylo_effects[279], std_phylo_effects[280], std_phylo_effects[281], std_phylo_effects[286], std_phylo_effects[287], std_phylo_effects[289], std_phylo_effects[291], std_phylo_effects[292], std_phylo_effects[294], std_phylo_effects[298], std_phylo_effects[300], std_phylo_effects[302], std_phylo_effects[303], std_phylo_effects[304], std_phylo_effects[306], std_phylo_effects[309], std_phylo_effects[310], std_phylo_effects[311], std_phylo_effects[313], std_phylo_effects[315], std_phylo_effects[316], std_phylo_effects[319], std_phylo_effects[321], std_phylo_effects[322], std_phylo_effects[323], std_phylo_effects[324], std_phylo_effects[326], std_phylo_effects[327], std_phylo_effects[328], std_phylo_effects[330], std_phylo_effects[332], std_phylo_effects[335], std_phylo_effects[337], std_phylo_effects[338], std_phylo_effects[339], std_phylo_effects[340], std_phylo_effects[342], std_phylo_effects[344], std_phylo_effects[345], std_phylo_effects[347], std_phylo_effects[355], std_phylo_effects[356], std_phylo_effects[357], std_phylo_effects[358], std_phylo_effects[360], std_phylo_effects[361], std_phylo_effects[362], std_phylo_effects[364], std_phylo_effects[365], std_phylo_effects[366], std_phylo_effects[367], std_phylo_effects[372], std_phylo_effects[373], std_phylo_effects[380], std_phylo_effects[382], std_phylo_effects[383], std_phylo_effects[385], std_phylo_effects[386], std_phylo_effects[387], std_phylo_effects[388], std_phylo_effects[391], std_phylo_effects[392], std_phylo_effects[393], std_phylo_effects[394], std_phylo_effects[397], std_phylo_effects[399], std_phylo_effects[400], std_phylo_effects[401], std_phylo_effects[403], std_phylo_effects[404], std_phylo_effects[411], std_phylo_effects[412], std_phylo_effects[413], std_phylo_effects[414], std_phylo_effects[415], std_phylo_effects[416], std_phylo_effects[417], std_phylo_effects[419], std_phylo_effects[421], std_phylo_effects[422], std_phylo_effects[433], std_phylo_effects[434], std_phylo_effects[436], std_phylo_effects[438], std_phylo_effects[440], std_phylo_effects[441], std_phylo_effects[445], std_phylo_effects[446], std_phylo_effects[449], std_phylo_effects[450], std_phylo_effects[452], std_phylo_effects[453], std_phylo_effects[455], std_phylo_effects[456], std_phylo_effects[457], std_phylo_effects[459], std_phylo_effects[460], std_phylo_effects[462], std_phylo_effects[463], std_phylo_effects[464], std_phylo_effects[466], std_phylo_effects[468], std_phylo_effects[469], std_phylo_effects[470], std_phylo_effects[471], std_phylo_effects[472], std_phylo_effects[474], std_phylo_effects[476], std_phylo_effects[477], std_phylo_effects[479], std_phylo_effects[480], std_phylo_effects[481], std_phylo_effects[482], std_phylo_effects[483], std_phylo_effects[484], std_phylo_effects[485], std_phylo_effects[486], std_phylo_effects[488], std_phylo_effects[490], std_phylo_effects[491], std_phylo_effects[492], std_phylo_effects[493], std_phylo_effects[495], std_phylo_effects[497], std_phylo_effects[500], std_phylo_effects[502], std_phylo_effects[503], std_phylo_effects[507], std_phylo_effects[509], std_phylo_effects[510], std_phylo_effects[512], std_phylo_effects[513], std_phylo_effects[515], std_phylo_effects[518], std_phylo_effects[519], std_phylo_effects[521], std_phylo_effects[522], phylo_effect[15], phylo_effect[19], phylo_effect[27], phylo_effect[28], phylo_effect[33], phylo_effect[40], phylo_effect[44], phylo_effect[53], phylo_effect[55], phylo_effect[63], phylo_effect[64], phylo_effect[73], phylo_effect[74], phylo_effect[76], phylo_effect[78], phylo_effect[79], phylo_effect[80], phylo_effect[95], phylo_effect[99], phylo_effect[105], phylo_effect[124], phylo_effect[135], phylo_effect[139], phylo_effect[140], phylo_effect[146], phylo_effect[152], phylo_effect[153], phylo_effect[154], phylo_effect[172], phylo_effect[175], phylo_effect[179], phylo_effect[182], phylo_effect[184], phylo_effect[185], phylo_effect[190], phylo_effect[192], phylo_effect[199], phylo_effect[215], phylo_effect[218], phylo_effect[219], phylo_effect[221], phylo_effect[223], phylo_effect[224], phylo_effect[225], phylo_effect[226], phylo_effect[230], phylo_effect[246], phylo_effect[248], phylo_effect[254], phylo_effect[257], phylo_effect[260], phylo_effect[263], phylo_effect[266], phylo_effect[276], phylo_effect[279], phylo_effect[280], phylo_effect[281], phylo_effect[283], phylo_effect[292], phylo_effect[302], phylo_effect[310], phylo_effect[313], phylo_effect[314], phylo_effect[315], phylo_effect[319], phylo_effect[322], phylo_effect[324], phylo_effect[325], phylo_effect[326], phylo_effect[328], phylo_effect[332], phylo_effect[339], phylo_effect[340], phylo_effect[344], phylo_effect[358], phylo_effect[361], phylo_effect[362], phylo_effect[364], phylo_effect[365], phylo_effect[382], phylo_effect[385], phylo_effect[388], phylo_effect[389], phylo_effect[392], phylo_effect[393], phylo_effect[394], phylo_effect[395], phylo_effect[397], phylo_effect[398], phylo_effect[399], phylo_effect[401], phylo_effect[403], phylo_effect[411], phylo_effect[413], phylo_effect[414], phylo_effect[419], phylo_effect[433], phylo_effect[434], phylo_effect[436], phylo_effect[438], phylo_effect[439], phylo_effect[445], phylo_effect[449], phylo_effect[463], phylo_effect[466], phylo_effect[468], phylo_effect[469], phylo_effect[470], phylo_effect[471], phylo_effect[472], phylo_effect[473], phylo_effect[474], phylo_effect[477], phylo_effect[481], phylo_effect[483], phylo_effect[493], phylo_effect[497], phylo_effect[502], phylo_effect[503], phylo_effect[513], phylo_effect[515], phylo_effect[518], phylo_effect[519], phylo_effect[521], phylo_effect[522], yrep[4], yrep[15], yrep[19], yrep[31], yrep[40], yrep[42], yrep[46], yrep[53], yrep[54], yrep[56], yrep[61], yrep[71], yrep[73], yrep[74], yrep[76], yrep[89], yrep[90], yrep[92], yrep[93], yrep[95], yrep[100], yrep[105], yrep[112], yrep[124], yrep[125], yrep[135], yrep[136], yrep[139], yrep[140], yrep[141], yrep[142], yrep[145], yrep[146], yrep[152], yrep[153], yrep[154], yrep[172], yrep[175], yrep[179], yrep[182], yrep[184], yrep[190], yrep[191], yrep[192], yrep[193], yrep[194], yrep[210], yrep[213], yrep[214], yrep[219], yrep[221], yrep[225], yrep[226], yrep[230], yrep[243], yrep[246], yrep[247], yrep[248], yrep[257], yrep[260], yrep[261], yrep[266], yrep[268], yrep[272], yrep[279], yrep[280], yrep[283], yrep[292], yrep[302], yrep[303], yrep[310], yrep[319], yrep[323], yrep[324], yrep[326], yrep[327], yrep[332], yrep[337], yrep[353], yrep[354], yrep[358], yrep[362], yrep[364], yrep[365], yrep[382], yrep[383], yrep[385], yrep[392], yrep[393], yrep[394], yrep[403], yrep[404], yrep[410], yrep[411], yrep[413], yrep[414], yrep[415], yrep[419], yrep[423], yrep[424], yrep[425], yrep[432], yrep[433], yrep[434], yrep[439], yrep[445], yrep[446], yrep[449], yrep[450], yrep[455], yrep[461], yrep[468], yrep[469], yrep[470], yrep[471], yrep[472], yrep[473], yrep[474], yrep[477], yrep[480], yrep[483], yrep[487], yrep[490], yrep[491], yrep[497], yrep[502], yrep[503], yrep[512], yrep[513], yrep[515], yrep[520], yrep[521], yrep[522], lin_pred[1], lin_pred[2], lin_pred[4], lin_pred[5], lin_pred[10], lin_pred[14], lin_pred[15], lin_pred[19], lin_pred[28], lin_pred[31], lin_pred[32], lin_pred[33], lin_pred[34], lin_pred[36], lin_pred[38], lin_pred[39], lin_pred[40], lin_pred[42], lin_pred[44], lin_pred[45], lin_pred[46], lin_pred[48], lin_pred[52], lin_pred[53], lin_pred[54], lin_pred[55], lin_pred[56], lin_pred[61], lin_pred[63], lin_pred[64], lin_pred[71], lin_pred[73], lin_pred[74], lin_pred[76], lin_pred[78], lin_pred[79], lin_pred[80], lin_pred[83], lin_pred[87], lin_pred[88], lin_pred[89], lin_pred[90], lin_pred[91], lin_pred[92], lin_pred[93], lin_pred[95], lin_pred[100], lin_pred[101], lin_pred[105], lin_pred[108], lin_pred[112], lin_pred[114], lin_pred[116], lin_pred[122], lin_pred[124], lin_pred[125], lin_pred[128], lin_pred[130], lin_pred[131], lin_pred[135], lin_pred[136], lin_pred[139], lin_pred[140], lin_pred[141], lin_pred[142], lin_pred[143], lin_pred[144], lin_pred[145], lin_pred[146], lin_pred[150], lin_pred[151], lin_pred[152], lin_pred[153], lin_pred[154], lin_pred[159], lin_pred[162], lin_pred[165], lin_pred[166], lin_pred[172], lin_pred[175], lin_pred[176], lin_pred[177], lin_pred[179], lin_pred[180], lin_pred[181], lin_pred[182], lin_pred[183], lin_pred[184], lin_pred[185], lin_pred[187], lin_pred[190], lin_pred[191], lin_pred[192], lin_pred[193], lin_pred[194], lin_pred[198], lin_pred[199], lin_pred[201], lin_pred[204], lin_pred[205], lin_pred[206], lin_pred[208], lin_pred[209], lin_pred[210], lin_pred[212], lin_pred[213], lin_pred[214], lin_pred[218], lin_pred[219], lin_pred[221], lin_pred[223], lin_pred[224], lin_pred[225], lin_pred[226], lin_pred[228], lin_pred[230], lin_pred[231], lin_pred[234], lin_pred[236], lin_pred[237], lin_pred[239], lin_pred[242], lin_pred[243], lin_pred[245], lin_pred[246], lin_pred[247], lin_pred[248], lin_pred[250], lin_pred[257], lin_pred[258], lin_pred[260], lin_pred[261], lin_pred[262], lin_pred[263], lin_pred[264], lin_pred[265], lin_pred[266], lin_pred[267], lin_pred[268], lin_pred[272], lin_pred[275], lin_pred[276], lin_pred[279], lin_pred[280], lin_pred[281], lin_pred[282], lin_pred[283], lin_pred[288], lin_pred[290], lin_pred[291], lin_pred[292], lin_pred[294], lin_pred[296], lin_pred[298], lin_pred[300], lin_pred[302], lin_pred[303], lin_pred[306], lin_pred[309], lin_pred[310], lin_pred[315], lin_pred[319], lin_pred[323], lin_pred[324], lin_pred[326], lin_pred[327], lin_pred[328], lin_pred[332], lin_pred[334], lin_pred[335], lin_pred[337], lin_pred[340], lin_pred[342], lin_pred[344], lin_pred[345], lin_pred[348], lin_pred[353], lin_pred[354], lin_pred[356], lin_pred[358], lin_pred[360], lin_pred[361], lin_pred[362], lin_pred[364], lin_pred[365], lin_pred[367], lin_pred[372], lin_pred[376], lin_pred[382], lin_pred[383], lin_pred[385], lin_pred[386], lin_pred[387], lin_pred[388], lin_pred[389], lin_pred[391], lin_pred[392], lin_pred[393], lin_pred[394], lin_pred[395], lin_pred[398], lin_pred[402], lin_pred[403], lin_pred[404], lin_pred[410], lin_pred[411], lin_pred[412], lin_pred[413], lin_pred[414], lin_pred[415], lin_pred[417], lin_pred[418], lin_pred[419], lin_pred[420], lin_pred[422], lin_pred[423], lin_pred[424], lin_pred[425], lin_pred[427], lin_pred[430], lin_pred[432], lin_pred[433], lin_pred[434], lin_pred[435], lin_pred[436], lin_pred[438], lin_pred[439], lin_pred[444], lin_pred[445], lin_pred[446], lin_pred[447], lin_pred[449], lin_pred[450], lin_pred[451], lin_pred[452], lin_pred[454], lin_pred[455], lin_pred[456], lin_pred[458], lin_pred[461], lin_pred[462], lin_pred[463], lin_pred[464], lin_pred[466], lin_pred[467], lin_pred[468], lin_pred[469], lin_pred[470], lin_pred[471], lin_pred[472], lin_pred[473], lin_pred[474], lin_pred[476], lin_pred[477], lin_pred[478], lin_pred[480], lin_pred[482], lin_pred[483], lin_pred[487], lin_pred[488], lin_pred[489], lin_pred[490], lin_pred[491], lin_pred[492], lin_pred[493], lin_pred[497], lin_pred[499], lin_pred[500], lin_pred[502], lin_pred[503], lin_pred[506], lin_pred[507], lin_pred[508], lin_pred[509], lin_pred[510], lin_pred[511], lin_pred[512], lin_pred[513], lin_pred[515], lin_pred[518], lin_pred[520], lin_pred[521], lin_pred[522], lin_pred[523]
+Such high values indicate incomplete mixing and biased estimation.
+You should consider regularizating your model with additional prior information or a more effective parameterization.
+
+Processing complete.
+Pareto k diagnostic values:
+                         Count Pct.    Min. n_eff
+(-Inf, 0.5]   (good)     503   96.2%   2         
+ (0.5, 0.7]   (ok)         9    1.7%   2         
+   (0.7, 1]   (bad)        8    1.5%   0         
+   (1, Inf)   (very bad)   3    0.6%   1         
+          elpd_diff se_diff
+pglmm_fit   0.0       0.0  
+base_fit  -29.9      54.2  
+pdf 
+  2 
