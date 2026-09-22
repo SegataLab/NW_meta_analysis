@@ -1,0 +1,236 @@
+Running MCMC with 4 sequential chains...
+
+Chain 1 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 1 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 1 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 1 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 1 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 1 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 1 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 1 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 1 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 1 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 1 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 1 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 1 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 1 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 1 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 1 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 1 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 1 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 1 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 1 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 1 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 1 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 1 finished in 85693.8 seconds.
+Chain 2 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 2 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 2 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 2 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 2 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 2 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 2 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 2 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 2 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 2 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 2 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 2 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 2 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 2 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 2 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 2 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 2 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 2 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 2 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 2 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 2 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 2 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 2 finished in 81793.6 seconds.
+Chain 3 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 3 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 3 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 3 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 3 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 3 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 3 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 3 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 3 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 3 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 3 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 3 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 3 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 3 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 3 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 3 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 3 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 3 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 3 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 3 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 3 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 3 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 3 finished in 82823.7 seconds.
+Chain 4 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 4 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 4 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 4 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 4 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 4 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 4 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 4 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 4 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 4 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 4 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 4 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 4 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 4 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 4 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 4 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 4 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 4 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 4 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 4 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 4 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 4 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 4 finished in 86592.7 seconds.
+
+All 4 chains finished successfully.
+Mean chain execution time: 84226.0 seconds.
+Total execution time: 336956.6 seconds.
+
+Running MCMC with 4 sequential chains...
+
+Chain 1 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 1 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 1 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 1 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 1 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 1 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 1 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 1 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 1 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 1 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 1 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 1 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 1 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 1 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 1 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 1 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 1 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 1 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 1 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 1 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 1 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 1 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 1 finished in 4.7 seconds.
+Chain 2 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 2 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 2 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 2 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 2 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 2 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 2 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 2 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 2 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 2 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 2 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 2 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 2 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 2 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 2 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 2 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 2 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 2 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 2 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 2 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 2 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 2 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 2 finished in 4.3 seconds.
+Chain 3 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 3 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 3 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 3 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 3 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 3 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 3 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 3 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 3 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 3 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 3 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 3 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 3 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 3 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 3 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 3 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 3 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 3 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 3 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 3 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 3 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 3 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 3 finished in 4.5 seconds.
+Chain 4 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 4 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 4 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 4 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 4 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 4 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 4 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 4 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 4 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 4 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 4 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 4 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 4 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 4 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 4 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 4 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 4 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 4 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 4 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 4 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 4 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 4 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 4 finished in 4.7 seconds.
+
+All 4 chains finished successfully.
+Mean chain execution time: 4.6 seconds.
+Total execution time: 54.6 seconds.
+
+          elpd_diff se_diff
+pglmm_fit     0.0       0.0
+base_fit  -4534.0     201.8
+Processing csv files: /shares/CIBIO-Storage/CM/scratch/users/aitor.blancomiguez/analyses/nw_metanalysis/scripts/tmp/RtmpPMW9IY/cont_pglmm_noise_reg-202306011325-1-668a8c.csv, /shares/CIBIO-Storage/CM/scratch/users/aitor.blancomiguez/analyses/nw_metanalysis/scripts/tmp/RtmpPMW9IY/cont_pglmm_noise_reg-202306011325-2-668a8c.csv, /shares/CIBIO-Storage/CM/scratch/users/aitor.blancomiguez/analyses/nw_metanalysis/scripts/tmp/RtmpPMW9IY/cont_pglmm_noise_reg-202306011325-3-668a8c.csv, /shares/CIBIO-Storage/CM/scratch/users/aitor.blancomiguez/analyses/nw_metanalysis/scripts/tmp/RtmpPMW9IY/cont_pglmm_noise_reg-202306011325-4-668a8c.csv
+
+Checking sampler transitions treedepth.
+3840 of 4000 (96.00%) transitions hit the maximum treedepth limit of 10, or 2^10 leapfrog steps.
+Trajectories that are prematurely terminated due to this limit will result in slow exploration.
+For optimal performance, increase this limit.
+
+Checking sampler transitions for divergences.
+No divergent transitions found.
+
+Checking E-BFMI - sampler transitions HMC potential energy.
+The E-BFMI, 0.02, is below the nominal threshold of 0.30 which suggests that HMC may have trouble exploring the target distribution.
+If possible, try to reparameterize the model.
+
+Effective sample size satisfactory.
+
+The following parameters had split R-hat greater than 1.05:
+  centered_cov_intercept, sigma_resid, phylo_effect[9], phylo_effect[18], phylo_effect[24], phylo_effect[35], phylo_effect[38], phylo_effect[40], phylo_effect[41], phylo_effect[47], phylo_effect[49], phylo_effect[51], phylo_effect[54], phylo_effect[77], phylo_effect[83], phylo_effect[88], phylo_effect[93], phylo_effect[112], phylo_effect[113], phylo_effect[120], phylo_effect[126], phylo_effect[127], phylo_effect[129], phylo_effect[137], phylo_effect[140], phylo_effect[141], phylo_effect[145], phylo_effect[147], phylo_effect[152], phylo_effect[158], phylo_effect[164], phylo_effect[165], phylo_effect[170], phylo_effect[180], phylo_effect[183], phylo_effect[191], phylo_effect[197], phylo_effect[201], phylo_effect[206], phylo_effect[207], phylo_effect[208], phylo_effect[217], phylo_effect[219], phylo_effect[221], phylo_effect[228], phylo_effect[230], phylo_effect[231], phylo_effect[232], phylo_effect[233], phylo_effect[234], phylo_effect[236], phylo_effect[242], phylo_effect[246], phylo_effect[262], phylo_effect[265], phylo_effect[267], phylo_effect[268], phylo_effect[269], phylo_effect[271], phylo_effect[281], phylo_effect[284], phylo_effect[287], phylo_effect[299], phylo_effect[301], phylo_effect[308], phylo_effect[322], phylo_effect[324], phylo_effect[325], phylo_effect[327], phylo_effect[335], phylo_effect[342], phylo_effect[347], phylo_effect[349], phylo_effect[351], phylo_effect[354], phylo_effect[356], phylo_effect[364], phylo_effect[374], phylo_effect[393], phylo_effect[394], phylo_effect[395], phylo_effect[400], phylo_effect[402], phylo_effect[411], phylo_effect[420], phylo_effect[421], phylo_effect[422], phylo_effect[425], phylo_effect[430], phylo_effect[431], phylo_effect[445], phylo_effect[447], phylo_effect[460], phylo_effect[461], phylo_effect[462], phylo_effect[466], phylo_effect[468], phylo_effect[474], phylo_effect[476], phylo_effect[478], phylo_effect[479], phylo_effect[481], phylo_effect[486], phylo_effect[490], phylo_effect[498], phylo_effect[499], phylo_effect[508], phylo_effect[513], phylo_effect[514], phylo_effect[518], phylo_effect[519], phylo_effect[530], phylo_effect[534], phylo_effect[538], phylo_effect[539], phylo_effect[541], phylo_effect[547], phylo_effect[549], phylo_effect[550], phylo_effect[557], phylo_effect[570], phylo_effect[571], phylo_effect[575], phylo_effect[577], phylo_effect[591], phylo_effect[592], phylo_effect[603], phylo_effect[605], phylo_effect[612], phylo_effect[615], phylo_effect[616], phylo_effect[621], phylo_effect[625], phylo_effect[628], phylo_effect[632], phylo_effect[633], phylo_effect[636], phylo_effect[637], phylo_effect[650], phylo_effect[660], phylo_effect[663], phylo_effect[671], phylo_effect[676], phylo_effect[681], phylo_effect[682], phylo_effect[684], phylo_effect[696], phylo_effect[700], phylo_effect[712], phylo_effect[715], phylo_effect[717], phylo_effect[726], phylo_effect[727], phylo_effect[729], phylo_effect[730], phylo_effect[733], phylo_effect[737], phylo_effect[739], phylo_effect[742], phylo_effect[749], phylo_effect[755], phylo_effect[758], phylo_effect[762], phylo_effect[765], phylo_effect[768], phylo_effect[788], phylo_effect[789], phylo_effect[798], phylo_effect[805], phylo_effect[806], phylo_effect[819], phylo_effect[823], phylo_effect[825], phylo_effect[828], phylo_effect[829], phylo_effect[833], phylo_effect[841], phylo_effect[842], phylo_effect[851], phylo_effect[855], phylo_effect[861], phylo_effect[862], phylo_effect[864], phylo_effect[865], phylo_effect[874], phylo_effect[881], phylo_effect[882], phylo_effect[883], phylo_effect[890], phylo_effect[892], phylo_effect[893], phylo_effect[898], phylo_effect[900], phylo_effect[909], phylo_effect[910], phylo_effect[936], phylo_effect[937], phylo_effect[938], phylo_effect[939], phylo_effect[947], phylo_effect[949], phylo_effect[951], phylo_effect[952], phylo_effect[953], phylo_effect[957], phylo_effect[961], phylo_effect[963], phylo_effect[969], phylo_effect[971], phylo_effect[973], phylo_effect[979], phylo_effect[980], phylo_effect[981], phylo_effect[983], phylo_effect[984], phylo_effect[985], phylo_effect[987], phylo_effect[990], phylo_effect[992], phylo_effect[994], phylo_effect[996], phylo_effect[999], phylo_effect[1000], phylo_effect[1001], phylo_effect[1005], phylo_effect[1006], phylo_effect[1008], phylo_effect[1014], phylo_effect[1015], phylo_effect[1018], phylo_effect[1019], phylo_effect[1024], phylo_effect[1044], phylo_effect[1050], phylo_effect[1051], phylo_effect[1052], phylo_effect[1059], phylo_effect[1061], phylo_effect[1062], phylo_effect[1063], phylo_effect[1066], phylo_effect[1069], phylo_effect[1070], phylo_effect[1089], phylo_effect[1094], phylo_effect[1098], phylo_effect[1099], phylo_effect[1103], phylo_effect[1111], phylo_effect[1113], phylo_effect[1114], phylo_effect[1116], phylo_effect[1127], phylo_effect[1135], phylo_effect[1138], phylo_effect[1144], phylo_effect[1148], phylo_effect[1151], phylo_effect[1157], phylo_effect[1166], phylo_effect[1172], phylo_effect[1173], phylo_effect[1174], phylo_effect[1179], phylo_effect[1180], phylo_effect[1184], phylo_effect[1189], phylo_effect[1192], phylo_effect[1194], phylo_effect[1199], phylo_effect[1206], phylo_effect[1210], phylo_effect[1211], phylo_effect[1212], phylo_effect[1213], phylo_effect[1214], phylo_effect[1217], phylo_effect[1219], phylo_effect[1242], phylo_effect[1253], phylo_effect[1255], phylo_effect[1257], phylo_effect[1258], phylo_effect[1259], phylo_effect[1261], phylo_effect[1267], phylo_effect[1270], phylo_effect[1275], phylo_effect[1283], phylo_effect[1285], phylo_effect[1293], phylo_effect[1295], phylo_effect[1296], phylo_effect[1301], phylo_effect[1303], phylo_effect[1309], phylo_effect[1317], phylo_effect[1327], phylo_effect[1335], phylo_effect[1336], phylo_effect[1344], phylo_effect[1346], phylo_effect[1352], phylo_effect[1357], phylo_effect[1364], phylo_effect[1367], phylo_effect[1397], phylo_effect[1401], phylo_effect[1417], phylo_effect[1425], phylo_effect[1429], phylo_effect[1432], phylo_effect[1446], phylo_effect[1449], phylo_effect[1451], phylo_effect[1454], phylo_effect[1456], phylo_effect[1465], phylo_effect[1481], phylo_effect[1486], phylo_effect[1488], phylo_effect[1489], phylo_effect[1490], phylo_effect[1491], phylo_effect[1495], phylo_effect[1496], phylo_effect[1497], phylo_effect[1498], phylo_effect[1499], phylo_effect[1502], phylo_effect[1504], phylo_effect[1507], phylo_effect[1514], phylo_effect[1516], phylo_effect[1519], phylo_effect[1520], phylo_effect[1521], phylo_effect[1522], phylo_effect[1527], phylo_effect[1541], phylo_effect[1554], phylo_effect[1560], phylo_effect[1569], phylo_effect[1571], phylo_effect[1574], phylo_effect[1576], phylo_effect[1585], phylo_effect[1596], phylo_effect[1597], phylo_effect[1600], phylo_effect[1602], phylo_effect[1615], phylo_effect[1616], phylo_effect[1622], phylo_effect[1626], phylo_effect[1627], phylo_effect[1638], phylo_effect[1640], phylo_effect[1646], phylo_effect[1652], phylo_effect[1654], phylo_effect[1657], phylo_effect[1658], phylo_effect[1662], phylo_effect[1674], phylo_effect[1679], phylo_effect[1690], phylo_effect[1700], phylo_effect[1712], phylo_effect[1730], phylo_effect[1734], phylo_effect[1746], phylo_effect[1751], phylo_effect[1752], phylo_effect[1753], phylo_effect[1755], phylo_effect[1759], phylo_effect[1763], phylo_effect[1764], phylo_effect[1769], phylo_effect[1772], phylo_effect[1774], phylo_effect[1779], phylo_effect[1785], phylo_effect[1789], phylo_effect[1790], phylo_effect[1795], phylo_effect[1800], phylo_effect[1802], phylo_effect[1807], phylo_effect[1815], phylo_effect[1816], phylo_effect[1817], phylo_effect[1820], phylo_effect[1828], phylo_effect[1829], phylo_effect[1833], phylo_effect[1837], phylo_effect[1846], phylo_effect[1848], phylo_effect[1853], phylo_effect[1860], phylo_effect[1862], phylo_effect[1867], phylo_effect[1875], phylo_effect[1877], phylo_effect[1878], phylo_effect[1880], phylo_effect[1891], phylo_effect[1910], phylo_effect[1913], phylo_effect[1920], phylo_effect[1922], phylo_effect[1923], phylo_effect[1924], phylo_effect[1943], phylo_effect[1955], phylo_effect[1964], phylo_effect[1968], phylo_effect[1972], phylo_effect[1973], phylo_effect[1974], phylo_effect[1977], phylo_effect[1983], phylo_effect[1985], phylo_effect[1986], phylo_effect[1988], phylo_effect[1989], phylo_effect[1992], phylo_effect[1996], phylo_effect[2007], phylo_effect[2009], phylo_effect[2011], phylo_effect[2014], phylo_effect[2018], phylo_effect[2019], phylo_effect[2023], phylo_effect[2026], phylo_effect[2029], phylo_effect[2034], phylo_effect[2044], phylo_effect[2056], phylo_effect[2064], phylo_effect[2065], phylo_effect[2067], phylo_effect[2069], phylo_effect[2072], phylo_effect[2075], phylo_effect[2076], phylo_effect[2081], phylo_effect[2082], phylo_effect[2086], phylo_effect[2091], phylo_effect[2102], phylo_effect[2112], phylo_effect[2113], phylo_effect[2115], phylo_effect[2119], phylo_effect[2132], phylo_effect[2139], phylo_effect[2140], phylo_effect[2144], phylo_effect[2146], phylo_effect[2148], phylo_effect[2149], phylo_effect[2150], phylo_effect[2152], phylo_effect[2154], phylo_effect[2162], phylo_effect[2163], phylo_effect[2166], phylo_effect[2176], phylo_effect[2178], phylo_effect[2180], phylo_effect[2187], phylo_effect[2188], phylo_effect[2189], phylo_effect[2193], phylo_effect[2194], phylo_effect[2203], phylo_effect[2205], phylo_effect[2223], phylo_effect[2227], phylo_effect[2235], phylo_effect[2238], phylo_effect[2245], phylo_effect[2247], phylo_effect[2251], phylo_effect[2255], phylo_effect[2265], phylo_effect[2267], phylo_effect[2270], phylo_effect[2274], phylo_effect[2279], phylo_effect[2284], phylo_effect[2285], phylo_effect[2289], phylo_effect[2291], phylo_effect[2296], phylo_effect[2299], phylo_effect[2302], phylo_effect[2306], phylo_effect[2307], phylo_effect[2311], phylo_effect[2322], phylo_effect[2326], phylo_effect[2329], phylo_effect[2335], phylo_effect[2340], phylo_effect[2342], phylo_effect[2345], phylo_effect[2349], phylo_effect[2357], phylo_effect[2359], phylo_effect[2362], phylo_effect[2368], phylo_effect[2400], phylo_effect[2408], phylo_effect[2409], phylo_effect[2414], phylo_effect[2416], phylo_effect[2418], phylo_effect[2422], phylo_effect[2460], phylo_effect[2463], phylo_effect[2475], phylo_effect[2486], phylo_effect[2488], phylo_effect[2489], phylo_effect[2491], phylo_effect[2497], phylo_effect[2500], phylo_effect[2527], phylo_effect[2541], phylo_effect[2552], phylo_effect[2565], phylo_effect[2585], phylo_effect[2593], phylo_effect[2600], phylo_effect[2607], phylo_effect[2619], phylo_effect[2636], phylo_effect[2639], phylo_effect[2654], phylo_effect[2665], phylo_effect[2667], phylo_effect[2672], phylo_effect[2678], phylo_effect[2680], phylo_effect[2687], phylo_effect[2692], phylo_effect[2696], phylo_effect[2697], phylo_effect[2706], phylo_effect[2718], phylo_effect[2719], phylo_effect[2722], phylo_effect[2723], phylo_effect[2726], phylo_effect[2735], phylo_effect[2737], phylo_effect[2744], phylo_effect[2745], phylo_effect[2747], phylo_effect[2753], phylo_effect[2759], phylo_effect[2760], phylo_effect[2767], phylo_effect[2769], phylo_effect[2770], phylo_effect[2773], phylo_effect[2775], phylo_effect[2777], phylo_effect[2778], phylo_effect[2781], phylo_effect[2782], phylo_effect[2794], phylo_effect[2795], phylo_effect[2802], phylo_effect[2814], phylo_effect[2824], phylo_effect[2837], phylo_effect[2843], phylo_effect[2850], phylo_effect[2851], phylo_effect[2857], phylo_effect[2865], phylo_effect[2871], phylo_effect[2875], phylo_effect[2888], phylo_effect[2892], phylo_effect[2893], phylo_effect[2897], phylo_effect[2899], phylo_effect[2900], phylo_effect[2902], phylo_effect[2903], phylo_effect[2907], phylo_effect[2908], phylo_effect[2909], phylo_effect[2910], phylo_effect[2916], phylo_effect[2921], phylo_effect[2923], phylo_effect[2934], phylo_effect[2943], phylo_effect[2944], phylo_effect[2946], phylo_effect[2949], phylo_effect[2956], phylo_effect[2970], phylo_effect[2972], phylo_effect[2973], phylo_effect[2980], phylo_effect[2984], phylo_effect[2986], phylo_effect[2990], phylo_effect[2992], phylo_effect[2994], phylo_effect[2995], phylo_effect[3016], phylo_effect[3017], phylo_effect[3020], phylo_effect[3022], phylo_effect[3027], phylo_effect[3029], phylo_effect[3031], phylo_effect[3032], phylo_effect[3034], phylo_effect[3037], phylo_effect[3040], phylo_effect[3049], phylo_effect[3054], phylo_effect[3056], phylo_effect[3058], phylo_effect[3070], phylo_effect[3079], phylo_effect[3082], phylo_effect[3088], phylo_effect[3091], phylo_effect[3106], phylo_effect[3108], phylo_effect[3115], phylo_effect[3127], phylo_effect[3130], phylo_effect[3134], phylo_effect[3135], phylo_effect[3142], phylo_effect[3153], phylo_effect[3154], phylo_effect[3156], phylo_effect[3158], phylo_effect[3167], phylo_effect[3170], phylo_effect[3173], phylo_effect[3174], phylo_effect[3175], phylo_effect[3176], phylo_effect[3178], phylo_effect[3182], phylo_effect[3183], phylo_effect[3185], phylo_effect[3186], phylo_effect[3189], phylo_effect[3191], phylo_effect[3196], phylo_effect[3198], phylo_effect[3199], phylo_effect[3205], phylo_effect[3211], phylo_effect[3226], phylo_effect[3228], phylo_effect[3230], phylo_effect[3231], phylo_effect[3234], phylo_effect[3235], phylo_effect[3242], phylo_effect[3248], phylo_effect[3249], phylo_effect[3251], phylo_effect[3255], phylo_effect[3258], phylo_effect[3264], phylo_effect[3266], phylo_effect[3270], phylo_effect[3271], phylo_effect[3272], phylo_effect[3275], phylo_effect[3276], phylo_effect[3277], phylo_effect[3278], phylo_effect[3279], phylo_effect[3292], phylo_effect[3298], phylo_effect[3312], phylo_effect[3314], phylo_effect[3315], phylo_effect[3316], phylo_effect[3325], phylo_effect[3326], phylo_effect[3327], phylo_effect[3330], phylo_effect[3331], phylo_effect[3332], phylo_effect[3338], phylo_effect[3339], phylo_effect[3345], phylo_effect[3346], phylo_effect[3357], phylo_effect[3358], phylo_effect[3365], phylo_effect[3371], phylo_effect[3377], phylo_effect[3398], phylo_effect[3400], phylo_effect[3401], phylo_effect[3407], phylo_effect[3411], phylo_effect[3412], phylo_effect[3425], phylo_effect[3429], phylo_effect[3430], phylo_effect[3439], phylo_effect[3441], phylo_effect[3442], phylo_effect[3455], phylo_effect[3456], phylo_effect[3457], phylo_effect[3459], phylo_effect[3463], phylo_effect[3468], phylo_effect[3471], phylo_effect[3475], phylo_effect[3478], phylo_effect[3487], phylo_effect[3489], phylo_effect[3492], phylo_effect[3493], phylo_effect[3494], phylo_effect[3495], phylo_effect[3507], phylo_effect[3521], phylo_effect[3522], phylo_effect[3528], phylo_effect[3531], phylo_effect[3534], phylo_effect[3540], phylo_effect[3541], phylo_effect[3547], phylo_effect[3557], phylo_effect[3566], phylo_effect[3568], phylo_effect[3575], phylo_effect[3577], phylo_effect[3586], phylo_effect[3593], phylo_effect[3595], phylo_effect[3599], phylo_effect[3600], phylo_effect[3603], phylo_effect[3606], phylo_effect[3613], phylo_effect[3626], phylo_effect[3635], phylo_effect[3645], phylo_effect[3647], phylo_effect[3650], phylo_effect[3653], phylo_effect[3659], phylo_effect[3661], phylo_effect[3674], phylo_effect[3676], phylo_effect[3685], phylo_effect[3696], phylo_effect[3705], phylo_effect[3723], phylo_effect[3724], phylo_effect[3728], phylo_effect[3730], phylo_effect[3760], phylo_effect[3764], phylo_effect[3771], phylo_effect[3784], phylo_effect[3787], phylo_effect[3790], phylo_effect[3813], phylo_effect[3817], phylo_effect[3819], phylo_effect[3821], phylo_effect[3838], phylo_effect[3839], phylo_effect[3849], phylo_effect[3850], phylo_effect[3851], phylo_effect[3852], phylo_effect[3861], phylo_effect[3867], phylo_effect[3870], phylo_effect[3872], phylo_effect[3885], phylo_effect[3886], phylo_effect[3889], phylo_effect[3896], phylo_effect[3905], phylo_effect[3911], phylo_effect[3912], phylo_effect[3914], phylo_effect[3915], phylo_effect[3916], phylo_effect[3919], phylo_effect[3920], phylo_effect[3922], phylo_effect[3925], phylo_effect[3927], phylo_effect[3935], phylo_effect[3938], phylo_effect[3941], phylo_effect[3946], phylo_effect[3953], phylo_effect[3957], phylo_effect[3964], phylo_effect[3965], phylo_effect[3966], phylo_effect[3971], phylo_effect[3972], phylo_effect[3975], phylo_effect[3978], phylo_effect[3982], phylo_effect[3983], phylo_effect[3993], phylo_effect[3994], phylo_effect[3996], phylo_effect[4013], phylo_effect[4015], phylo_effect[4021], phylo_effect[4031], phylo_effect[4033], phylo_effect[4035], phylo_effect[4044], phylo_effect[4045], phylo_effect[4050], phylo_effect[4051], phylo_effect[4053], phylo_effect[4054], phylo_effect[4056], phylo_effect[4064], phylo_effect[4066], phylo_effect[4067], phylo_effect[4076], phylo_effect[4083], phylo_effect[4084], phylo_effect[4085], phylo_effect[4089], phylo_effect[4094], phylo_effect[4097], phylo_effect[4099], phylo_effect[4101], phylo_effect[4102], phylo_effect[4104], phylo_effect[4105], phylo_effect[4119], phylo_effect[4132], phylo_effect[4133], phylo_effect[4134], phylo_effect[4139], phylo_effect[4146], phylo_effect[4148], phylo_effect[4151], phylo_effect[4152], phylo_effect[4154], phylo_effect[4158], phylo_effect[4172], phylo_effect[4176], phylo_effect[4178], phylo_effect[4179], phylo_effect[4198], phylo_effect[4205], phylo_effect[4206], phylo_effect[4217], phylo_effect[4218], phylo_effect[4219], phylo_effect[4223], phylo_effect[4245], phylo_effect[4252], phylo_effect[4253], phylo_effect[4254], phylo_effect[4265], phylo_effect[4267], phylo_effect[4268], phylo_effect[4271], phylo_effect[4286], phylo_effect[4298], phylo_effect[4306], phylo_effect[4307], phylo_effect[4308], phylo_effect[4309], phylo_effect[4311], phylo_effect[4324], phylo_effect[4330], phylo_effect[4339], phylo_effect[4346], phylo_effect[4347], phylo_effect[4348], phylo_effect[4360], phylo_effect[4361], phylo_effect[4373], phylo_effect[4376], phylo_effect[4384], phylo_effect[4398], phylo_effect[4399], phylo_effect[4411], phylo_effect[4420], phylo_effect[4422], phylo_effect[4423], phylo_effect[4428], phylo_effect[4434], phylo_effect[4437], phylo_effect[4447], phylo_effect[4452], phylo_effect[4454], phylo_effect[4458], phylo_effect[4459], phylo_effect[4466], phylo_effect[4468], phylo_effect[4472], phylo_effect[4483], phylo_effect[4489], phylo_effect[4499], phylo_effect[4506], phylo_effect[4514], phylo_effect[4517], phylo_effect[4525], phylo_effect[4534], phylo_effect[4537], phylo_effect[4544], phylo_effect[4552], phylo_effect[4560], phylo_effect[4563], phylo_effect[4567], phylo_effect[4569], phylo_effect[4571], phylo_effect[4582], phylo_effect[4585], phylo_effect[4586], phylo_effect[4595], phylo_effect[4597], phylo_effect[4610], phylo_effect[4616], phylo_effect[4618], phylo_effect[4623], phylo_effect[4624], phylo_effect[4625], phylo_effect[4637], phylo_effect[4639], phylo_effect[4640], phylo_effect[4649], phylo_effect[4659], phylo_effect[4660], phylo_effect[4661], phylo_effect[4697], phylo_effect[4698], phylo_effect[4703], phylo_effect[4716], phylo_effect[4719], phylo_effect[4720], phylo_effect[4722], phylo_effect[4724], phylo_effect[4728], phylo_effect[4736], phylo_effect[4738], phylo_effect[4758], phylo_effect[4761], phylo_effect[4763], phylo_effect[4767], phylo_effect[4769], phylo_effect[4794], phylo_effect[4796], phylo_effect[4800], phylo_effect[4801], phylo_effect[4802], phylo_effect[4813], phylo_effect[4827], phylo_effect[4828], phylo_effect[4830], phylo_effect[4834], phylo_effect[4836], phylo_effect[4837], phylo_effect[4839], phylo_effect[4840], phylo_effect[4846], phylo_effect[4853], phylo_effect[4856], phylo_effect[4857], phylo_effect[4862], phylo_effect[4864], phylo_effect[4870], phylo_effect[4871], phylo_effect[4899], phylo_effect[4900], phylo_effect[4904], phylo_effect[4911], phylo_effect[4915], phylo_effect[4918], phylo_effect[4922], phylo_effect[4939], phylo_effect[4963], phylo_effect[4978], phylo_effect[4984], phylo_effect[4985], phylo_effect[4992], phylo_effect[5002], phylo_effect[5006], phylo_effect[5013], phylo_effect[5015], phylo_effect[5028], phylo_effect[5032], phylo_effect[5036], phylo_effect[5039], phylo_effect[5041], phylo_effect[5047], phylo_effect[5050], phylo_effect[5073], phylo_effect[5080], phylo_effect[5081], phylo_effect[5084], phylo_effect[5088], phylo_effect[5090], phylo_effect[5094], phylo_effect[5100], phylo_effect[5132], phylo_effect[5135], phylo_effect[5148], phylo_effect[5152], phylo_effect[5166], phylo_effect[5174], phylo_effect[5183], phylo_effect[5184], phylo_effect[5185], phylo_effect[5190], phylo_effect[5193], phylo_effect[5194], phylo_effect[5200], phylo_effect[5208], phylo_effect[5216], phylo_effect[5217], phylo_effect[5223], phylo_effect[5230], phylo_effect[5239], phylo_effect[5249], phylo_effect[5260], phylo_effect[5266], phylo_effect[5269], phylo_effect[5270], phylo_effect[5271], phylo_effect[5272], phylo_effect[5273], phylo_effect[5274], phylo_effect[5276], phylo_effect[5282], phylo_effect[5284], phylo_effect[5298], phylo_effect[5305], phylo_effect[5308], phylo_effect[5314], phylo_effect[5315], phylo_effect[5316], phylo_effect[5318], phylo_effect[5321], phylo_effect[5326], phylo_effect[5332], phylo_effect[5341], phylo_effect[5342], phylo_effect[5344], phylo_effect[5345], phylo_effect[5360], phylo_effect[5368], phylo_effect[5375], phylo_effect[5378], phylo_effect[5388], phylo_effect[5392], phylo_effect[5406], phylo_effect[5407], phylo_effect[5408], phylo_effect[5412], phylo_effect[5416], phylo_effect[5424], phylo_effect[5433], phylo_effect[5434], phylo_effect[5437], phylo_effect[5441], phylo_effect[5443], phylo_effect[5444], phylo_effect[5445], phylo_effect[5446], phylo_effect[5451], phylo_effect[5459], phylo_effect[5460], phylo_effect[5463], phylo_effect[5464], phylo_effect[5475], phylo_effect[5477], phylo_effect[5482], phylo_effect[5486], phylo_effect[5490], phylo_effect[5497], phylo_effect[5498], phylo_effect[5507], phylo_effect[5508], phylo_effect[5512], phylo_effect[5517], phylo_effect[5518], phylo_effect[5519], phylo_effect[5534], phylo_effect[5556], phylo_effect[5559], phylo_effect[5560], phylo_effect[5563], phylo_effect[5567], phylo_effect[5575], phylo_effect[5578], phylo_effect[5582], phylo_effect[5584], phylo_effect[5591], phylo_effect[5592], phylo_effect[5600], phylo_effect[5602], phylo_effect[5603], phylo_effect[5610], phylo_effect[5611], phylo_effect[5612], phylo_effect[5614], phylo_effect[5620], phylo_effect[5626], phylo_effect[5627], phylo_effect[5628], phylo_effect[5632], phylo_effect[5642], phylo_effect[5661], phylo_effect[5662], phylo_effect[5665], phylo_effect[5673], phylo_effect[5674], phylo_effect[5676], phylo_effect[5677], phylo_effect[5678], phylo_effect[5679], phylo_effect[5681], phylo_effect[5690], phylo_effect[5692], phylo_effect[5699], phylo_effect[5700], phylo_effect[5701], phylo_effect[5703], phylo_effect[5705], phylo_effect[5715], phylo_effect[5727], phylo_effect[5729], phylo_effect[5743], phylo_effect[5753], phylo_effect[5754], phylo_effect[5758], phylo_effect[5760], phylo_effect[5762], phylo_effect[5764], phylo_effect[5772], phylo_effect[5784], phylo_effect[5785], phylo_effect[5791], phylo_effect[5794], phylo_effect[5804], phylo_effect[5818], phylo_effect[5821], phylo_effect[5823], phylo_effect[5824], phylo_effect[5833], phylo_effect[5835], phylo_effect[5836], phylo_effect[5857], phylo_effect[5865], phylo_effect[5869], phylo_effect[5877], phylo_effect[5878], phylo_effect[5880], phylo_effect[5881], phylo_effect[5883], phylo_effect[5890], phylo_effect[5896], phylo_effect[5899], phylo_effect[5909], phylo_effect[5917], phylo_effect[5923], phylo_effect[5925], phylo_effect[5928], phylo_effect[5933], phylo_effect[5935], phylo_effect[5936], phylo_effect[5937], phylo_effect[5940], phylo_effect[5952], phylo_effect[5957], phylo_effect[5961], phylo_effect[5963], phylo_effect[5965], phylo_effect[5975], phylo_effect[5981], phylo_effect[5998], phylo_effect[5999], phylo_effect[6002], phylo_effect[6009], intercept
+Such high values indicate incomplete mixing and biased estimation.
+You should consider regularizating your model with additional prior information or a more effective parameterization.
+
+Processing complete.
+Pareto k diagnostic values:
+                         Count Pct.    Min. n_eff
+(-Inf, 0.5]   (good)     6026  100.0%  53        
+ (0.5, 0.7]   (ok)          3    0.0%  253       
+   (0.7, 1]   (bad)         0    0.0%  <NA>      
+   (1, Inf)   (very bad)    0    0.0%  <NA>      
+
+All Pareto k estimates are ok (k < 0.7).
+          elpd_diff se_diff
+pglmm_fit     0.0       0.0
+base_fit  -4534.0     201.8
+pdf 
+  2 

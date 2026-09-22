@@ -1,0 +1,234 @@
+Running MCMC with 4 sequential chains...
+
+Chain 1 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 1 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 1 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 1 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 1 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 1 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 1 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 1 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 1 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 1 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 1 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 1 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 1 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 1 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 1 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 1 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 1 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 1 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 1 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 1 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 1 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 1 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 1 finished in 22300.6 seconds.
+Chain 2 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 2 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 2 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 2 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 2 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 2 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 2 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 2 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 2 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 2 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 2 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 2 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 2 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 2 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 2 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 2 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 2 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 2 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 2 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 2 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 2 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 2 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 2 finished in 19595.6 seconds.
+Chain 3 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 3 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 3 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 3 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 3 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 3 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 3 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 3 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 3 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 3 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 3 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 3 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 3 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 3 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 3 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 3 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 3 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 3 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 3 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 3 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 3 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 3 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 3 finished in 20873.9 seconds.
+Chain 4 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 4 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 4 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 4 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 4 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 4 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 4 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 4 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 4 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 4 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 4 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 4 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 4 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 4 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 4 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 4 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 4 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 4 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 4 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 4 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 4 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 4 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 4 finished in 22211.8 seconds.
+
+All 4 chains finished successfully.
+Mean chain execution time: 21245.5 seconds.
+Total execution time: 84995.1 seconds.
+
+Running MCMC with 4 sequential chains...
+
+Chain 1 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 1 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 1 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 1 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 1 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 1 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 1 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 1 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 1 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 1 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 1 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 1 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 1 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 1 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 1 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 1 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 1 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 1 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 1 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 1 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 1 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 1 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 1 finished in 13.2 seconds.
+Chain 2 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 2 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 2 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 2 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 2 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 2 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 2 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 2 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 2 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 2 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 2 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 2 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 2 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 2 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 2 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 2 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 2 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 2 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 2 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 2 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 2 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 2 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 2 finished in 13.5 seconds.
+Chain 3 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 3 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 3 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 3 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 3 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 3 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 3 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 3 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 3 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 3 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 3 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 3 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 3 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 3 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 3 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 3 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 3 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 3 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 3 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 3 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 3 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 3 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 3 finished in 13.7 seconds.
+Chain 4 Iteration:    1 / 2000 [  0%]  (Warmup) 
+Chain 4 Iteration:  100 / 2000 [  5%]  (Warmup) 
+Chain 4 Iteration:  200 / 2000 [ 10%]  (Warmup) 
+Chain 4 Iteration:  300 / 2000 [ 15%]  (Warmup) 
+Chain 4 Iteration:  400 / 2000 [ 20%]  (Warmup) 
+Chain 4 Iteration:  500 / 2000 [ 25%]  (Warmup) 
+Chain 4 Iteration:  600 / 2000 [ 30%]  (Warmup) 
+Chain 4 Iteration:  700 / 2000 [ 35%]  (Warmup) 
+Chain 4 Iteration:  800 / 2000 [ 40%]  (Warmup) 
+Chain 4 Iteration:  900 / 2000 [ 45%]  (Warmup) 
+Chain 4 Iteration: 1000 / 2000 [ 50%]  (Warmup) 
+Chain 4 Iteration: 1001 / 2000 [ 50%]  (Sampling) 
+Chain 4 Iteration: 1100 / 2000 [ 55%]  (Sampling) 
+Chain 4 Iteration: 1200 / 2000 [ 60%]  (Sampling) 
+Chain 4 Iteration: 1300 / 2000 [ 65%]  (Sampling) 
+Chain 4 Iteration: 1400 / 2000 [ 70%]  (Sampling) 
+Chain 4 Iteration: 1500 / 2000 [ 75%]  (Sampling) 
+Chain 4 Iteration: 1600 / 2000 [ 80%]  (Sampling) 
+Chain 4 Iteration: 1700 / 2000 [ 85%]  (Sampling) 
+Chain 4 Iteration: 1800 / 2000 [ 90%]  (Sampling) 
+Chain 4 Iteration: 1900 / 2000 [ 95%]  (Sampling) 
+Chain 4 Iteration: 2000 / 2000 [100%]  (Sampling) 
+Chain 4 finished in 13.0 seconds.
+
+All 4 chains finished successfully.
+Mean chain execution time: 13.3 seconds.
+Total execution time: 64.5 seconds.
+
+          elpd_diff se_diff
+pglmm_fit    0.0       0.0 
+base_fit  -638.0      81.3 
+Processing csv files: /shares/CIBIO-Storage/CM/scratch/users/aitor.blancomiguez/analyses/nw_metanalysis/scripts/tmp/Rtmpz7jarC/cont_pglmm_noise_reg-202304281309-1-825bc2.csv, /shares/CIBIO-Storage/CM/scratch/users/aitor.blancomiguez/analyses/nw_metanalysis/scripts/tmp/Rtmpz7jarC/cont_pglmm_noise_reg-202304281309-2-825bc2.csv, /shares/CIBIO-Storage/CM/scratch/users/aitor.blancomiguez/analyses/nw_metanalysis/scripts/tmp/Rtmpz7jarC/cont_pglmm_noise_reg-202304281309-3-825bc2.csv, /shares/CIBIO-Storage/CM/scratch/users/aitor.blancomiguez/analyses/nw_metanalysis/scripts/tmp/Rtmpz7jarC/cont_pglmm_noise_reg-202304281309-4-825bc2.csv
+
+Checking sampler transitions treedepth.
+3861 of 4000 (96.53%) transitions hit the maximum treedepth limit of 10, or 2^10 leapfrog steps.
+Trajectories that are prematurely terminated due to this limit will result in slow exploration.
+For optimal performance, increase this limit.
+
+Checking sampler transitions for divergences.
+No divergent transitions found.
+
+Checking E-BFMI - sampler transitions HMC potential energy.
+The E-BFMI, 0.05, is below the nominal threshold of 0.30 which suggests that HMC may have trouble exploring the target distribution.
+If possible, try to reparameterize the model.
+
+Effective sample size satisfactory.
+
+The following parameters had split R-hat greater than 1.05:
+  beta[23], sigma_resid, std_phylo_effects[54], std_phylo_effects[272], std_phylo_effects[406], std_phylo_effects[416], std_phylo_effects[417], std_phylo_effects[510], std_phylo_effects[602], std_phylo_effects[669], std_phylo_effects[817], std_phylo_effects[881], std_phylo_effects[948], std_phylo_effects[1057], std_phylo_effects[1157], std_phylo_effects[1624], std_phylo_effects[2105], std_phylo_effects[2325], phylo_effect[30], phylo_effect[54], phylo_effect[90], phylo_effect[111], phylo_effect[112], phylo_effect[113], phylo_effect[114], phylo_effect[117], phylo_effect[146], phylo_effect[178], phylo_effect[272], phylo_effect[309], phylo_effect[314], phylo_effect[330], phylo_effect[361], phylo_effect[362], phylo_effect[363], phylo_effect[364], phylo_effect[389], phylo_effect[394], phylo_effect[406], phylo_effect[408], phylo_effect[409], phylo_effect[410], phylo_effect[411], phylo_effect[413], phylo_effect[416], phylo_effect[418], phylo_effect[421], phylo_effect[428], phylo_effect[438], phylo_effect[448], phylo_effect[469], phylo_effect[480], phylo_effect[510], phylo_effect[534], phylo_effect[558], phylo_effect[567], phylo_effect[578], phylo_effect[592], phylo_effect[602], phylo_effect[603], phylo_effect[610], phylo_effect[619], phylo_effect[636], phylo_effect[652], phylo_effect[653], phylo_effect[669], phylo_effect[678], phylo_effect[679], phylo_effect[680], phylo_effect[681], phylo_effect[682], phylo_effect[683], phylo_effect[684], phylo_effect[685], phylo_effect[686], phylo_effect[691], phylo_effect[692], phylo_effect[693], phylo_effect[694], phylo_effect[695], phylo_effect[712], phylo_effect[714], phylo_effect[716], phylo_effect[720], phylo_effect[721], phylo_effect[723], phylo_effect[731], phylo_effect[732], phylo_effect[736], phylo_effect[743], phylo_effect[755], phylo_effect[784], phylo_effect[785], phylo_effect[789], phylo_effect[799], phylo_effect[800], phylo_effect[801], phylo_effect[803], phylo_effect[811], phylo_effect[812], phylo_effect[813], phylo_effect[815], phylo_effect[816], phylo_effect[817], phylo_effect[820], phylo_effect[821], phylo_effect[822], phylo_effect[823], phylo_effect[825], phylo_effect[853], phylo_effect[854], phylo_effect[858], phylo_effect[860], phylo_effect[866], phylo_effect[876], phylo_effect[881], phylo_effect[889], phylo_effect[948], phylo_effect[951], phylo_effect[960], phylo_effect[972], phylo_effect[973], phylo_effect[974], phylo_effect[992], phylo_effect[1008], phylo_effect[1010], phylo_effect[1012], phylo_effect[1013], phylo_effect[1014], phylo_effect[1015], phylo_effect[1018], phylo_effect[1034], phylo_effect[1035], phylo_effect[1036], phylo_effect[1037], phylo_effect[1044], phylo_effect[1049], phylo_effect[1052], phylo_effect[1054], phylo_effect[1057], phylo_effect[1059], phylo_effect[1060], phylo_effect[1061], phylo_effect[1064], phylo_effect[1065], phylo_effect[1073], phylo_effect[1076], phylo_effect[1078], phylo_effect[1083], phylo_effect[1084], phylo_effect[1085], phylo_effect[1087], phylo_effect[1097], phylo_effect[1098], phylo_effect[1104], phylo_effect[1120], phylo_effect[1121], phylo_effect[1132], phylo_effect[1134], phylo_effect[1153], phylo_effect[1154], phylo_effect[1155], phylo_effect[1157], phylo_effect[1158], phylo_effect[1166], phylo_effect[1205], phylo_effect[1210], phylo_effect[1211], phylo_effect[1215], phylo_effect[1216], phylo_effect[1217], phylo_effect[1218], phylo_effect[1219], phylo_effect[1220], phylo_effect[1221], phylo_effect[1222], phylo_effect[1226], phylo_effect[1227], phylo_effect[1229], phylo_effect[1230], phylo_effect[1232], phylo_effect[1235], phylo_effect[1236], phylo_effect[1237], phylo_effect[1238], phylo_effect[1239], phylo_effect[1240], phylo_effect[1241], phylo_effect[1242], phylo_effect[1243], phylo_effect[1244], phylo_effect[1252], phylo_effect[1253], phylo_effect[1259], phylo_effect[1260], phylo_effect[1261], phylo_effect[1262], phylo_effect[1264], phylo_effect[1274], phylo_effect[1276], phylo_effect[1278], phylo_effect[1285], phylo_effect[1288], phylo_effect[1321], phylo_effect[1326], phylo_effect[1327], phylo_effect[1328], phylo_effect[1332], phylo_effect[1336], phylo_effect[1337], phylo_effect[1338], phylo_effect[1378], phylo_effect[1379], phylo_effect[1380], phylo_effect[1384], phylo_effect[1385], phylo_effect[1386], phylo_effect[1387], phylo_effect[1389], phylo_effect[1390], phylo_effect[1391], phylo_effect[1401], phylo_effect[1405], phylo_effect[1406], phylo_effect[1407], phylo_effect[1408], phylo_effect[1413], phylo_effect[1417], phylo_effect[1421], phylo_effect[1438], phylo_effect[1452], phylo_effect[1455], phylo_effect[1567], phylo_effect[1570], phylo_effect[1584], phylo_effect[1585], phylo_effect[1586], phylo_effect[1587], phylo_effect[1588], phylo_effect[1589], phylo_effect[1624], phylo_effect[1646], phylo_effect[1649], phylo_effect[1651], phylo_effect[1652], phylo_effect[1653], phylo_effect[1654], phylo_effect[1657], phylo_effect[1658], phylo_effect[1673], phylo_effect[1679], phylo_effect[1681], phylo_effect[1682], phylo_effect[1687], phylo_effect[1688], phylo_effect[1689], phylo_effect[1695], phylo_effect[1697], phylo_effect[1698], phylo_effect[1702], phylo_effect[1721], phylo_effect[1733], phylo_effect[1848], phylo_effect[1923], phylo_effect[1927], phylo_effect[1930], phylo_effect[2105], phylo_effect[2106], phylo_effect[2111], phylo_effect[2124], phylo_effect[2131], phylo_effect[2134], phylo_effect[2137], phylo_effect[2138], phylo_effect[2139], phylo_effect[2140], phylo_effect[2143], phylo_effect[2169], phylo_effect[2179], phylo_effect[2201], phylo_effect[2268], phylo_effect[2296], phylo_effect[2321], phylo_effect[2323], phylo_effect[2325], phylo_effect[2337]
+Such high values indicate incomplete mixing and biased estimation.
+You should consider regularizating your model with additional prior information or a more effective parameterization.
+
+Processing complete.
+Pareto k diagnostic values:
+                         Count Pct.    Min. n_eff
+(-Inf, 0.5]   (good)     2323  98.9%   47        
+ (0.5, 0.7]   (ok)          8   0.3%   30        
+   (0.7, 1]   (bad)         5   0.2%   5         
+   (1, Inf)   (very bad)   13   0.6%   1         
+          elpd_diff se_diff
+pglmm_fit    0.0       0.0 
+base_fit  -638.0      81.3 
+pdf 
+  2 
