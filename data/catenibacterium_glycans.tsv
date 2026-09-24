@@ -1,0 +1,410 @@
+replicate	experiment	strain	glycan_name_abbrev	odmax_odi	glycan_name_full
+1	1	tride	cello (+)	0.614	cellobiose
+2	1	tride	cello (+)	0.4917	cellobiose
+3	1	tride	cello (+)	0.7441	cellobiose
+4	1	tride	cello (+)	0.5299	cellobiose
+1	2	tride	cello (+)	0.5305	cellobiose
+2	2	tride	cello (+)	0.5391	cellobiose
+3	2	tride	cello (+)	0.4852	cellobiose
+4	2	tride	cello (+)	0.4986	cellobiose
+1	3	tride	cello (+)	0.7373	cellobiose
+2	3	tride	cello (+)	0.8042	cellobiose
+3	3	tride	cello (+)	0.7044	cellobiose
+4	3	tride	cello (+)	0.7286	cellobiose
+1	4	tride	cello (+)	0.4455	cellobiose
+2	4	tride	cello (+)	0.3981	cellobiose
+3	4	tride	cello (+)	0.5184	cellobiose
+4	4	tride	cello (+)	0.5804	cellobiose
+1	6	tride	cello (+)	0.4519	cellobiose
+2	6	tride	cello (+)	0.6763	cellobiose
+3	6	tride	cello (+)	0.7543	cellobiose
+1	7	mitsuo_T	cello (+)	0.507	cellobiose
+2	7	mitsuo_T	cello (+)	0.705	cellobiose
+3	7	mitsuo_T	cello (+)	0.773	cellobiose
+4	7	mitsuo_T	cello (+)	0.666	cellobiose
+5	7	mitsuo_T	cello (+)	0.875	cellobiose
+1	8	mitsuo_T	cello (+)	0.6038	cellobiose
+2	8	mitsuo_T	cello (+)	0.9403	cellobiose
+3	8	mitsuo_T	cello (+)	0.9164	cellobiose
+4	8	mitsuo_T	cello (+)	0.8384	cellobiose
+5	8	mitsuo_T	cello (+)	0.9096	cellobiose
+1	9	mitsuo_T	cello (+)	0.4763	cellobiose
+2	9	mitsuo_T	cello (+)	0.4261	cellobiose
+3	9	mitsuo_T	cello (+)	0.5705	cellobiose
+4	9	mitsuo_T	cello (+)	0.5041	cellobiose
+5	9	mitsuo_T	cello (+)	0.373	cellobiose
+1	10	mitsuo_isolate	cello (+)	0.4	cellobiose
+2	10	mitsuo_isolate	cello (+)	0.41	cellobiose
+3	10	mitsuo_isolate	cello (+)	0.19	cellobiose
+4	10	mitsuo_isolate	cello (+)	0.31	cellobiose
+5	10	mitsuo_isolate	cello (+)	0.18	cellobiose
+1	11	mitsuo_isolate	cello (+)	0.38	cellobiose
+2	11	mitsuo_isolate	cello (+)	0.33	cellobiose
+3	11	mitsuo_isolate	cello (+)	0.14	cellobiose
+1	12	mitsuo_isolate	cello (+)	0.26	cellobiose
+2	12	mitsuo_isolate	cello (+)	0.37	cellobiose
+3	12	mitsuo_isolate	cello (+)	0.43	cellobiose
+4	12	mitsuo_isolate	cello (+)	0.29	cellobiose
+1	1	tride	Y basal (-)	0.0	Y basal (-)
+2	1	tride	Y basal (-)	0.0696	Y basal (-)
+3	1	tride	Y basal (-)	0.036	Y basal (-)
+4	1	tride	Y basal (-)	0.0	Y basal (-)
+1	2	tride	Y basal (-)	0.1031	Y basal (-)
+2	2	tride	Y basal (-)	0.0861	Y basal (-)
+3	2	tride	Y basal (-)	0.0972	Y basal (-)
+4	2	tride	Y basal (-)	0.1056	Y basal (-)
+1	3	tride	Y basal (-)	0.0809	Y basal (-)
+2	3	tride	Y basal (-)	0.09	Y basal (-)
+3	3	tride	Y basal (-)	0.0762	Y basal (-)
+4	3	tride	Y basal (-)	0.1014	Y basal (-)
+1	4	tride	Y basal (-)	0.1303	Y basal (-)
+2	4	tride	Y basal (-)	0.1607	Y basal (-)
+3	4	tride	Y basal (-)	0.1012	Y basal (-)
+4	4	tride	Y basal (-)	0.0729	Y basal (-)
+1	6	tride	Y basal (-)	0.0597	Y basal (-)
+2	6	tride	Y basal (-)	0.2201	Y basal (-)
+3	6	tride	Y basal (-)	0.0423	Y basal (-)
+4	6	tride	Y basal (-)	0.1031	Y basal (-)
+1	7	mitsuo_T	Y basal (-)	0.265	Y basal (-)
+2	7	mitsuo_T	Y basal (-)	0.27	Y basal (-)
+3	7	mitsuo_T	Y basal (-)	0.262	Y basal (-)
+4	7	mitsuo_T	Y basal (-)	0.261	Y basal (-)
+5	7	mitsuo_T	Y basal (-)	0.242	Y basal (-)
+1	8	mitsuo_T	Y basal (-)	0.2521	Y basal (-)
+2	8	mitsuo_T	Y basal (-)	0.2829	Y basal (-)
+3	8	mitsuo_T	Y basal (-)	0.3854	Y basal (-)
+4	8	mitsuo_T	Y basal (-)	0.3301	Y basal (-)
+5	8	mitsuo_T	Y basal (-)	0.3937	Y basal (-)
+1	9	mitsuo_T	Y basal (-)	0.123	Y basal (-)
+2	9	mitsuo_T	Y basal (-)	0.2643	Y basal (-)
+3	9	mitsuo_T	Y basal (-)	0.2355	Y basal (-)
+4	9	mitsuo_T	Y basal (-)	0.1447	Y basal (-)
+5	9	mitsuo_T	Y basal (-)	0.1607	Y basal (-)
+1	10	mitsuo_isolate	Y basal (-)	0.16	Y basal (-)
+2	10	mitsuo_isolate	Y basal (-)	0.08	Y basal (-)
+3	10	mitsuo_isolate	Y basal (-)	0.51	Y basal (-)
+4	10	mitsuo_isolate	Y basal (-)	0.16	Y basal (-)
+5	10	mitsuo_isolate	Y basal (-)	0.05	Y basal (-)
+1	11	mitsuo_isolate	Y basal (-)	0.04	Y basal (-)
+2	11	mitsuo_isolate	Y basal (-)	0.08	Y basal (-)
+3	11	mitsuo_isolate	Y basal (-)	0.09	Y basal (-)
+4	11	mitsuo_isolate	Y basal (-)	0.06	Y basal (-)
+5	11	mitsuo_isolate	Y basal (-)	0.01	Y basal (-)
+1	12	mitsuo_isolate	Y basal (-)	0.02	Y basal (-)
+2	12	mitsuo_isolate	Y basal (-)	0.1	Y basal (-)
+3	12	mitsuo_isolate	Y basal (-)	0.09	Y basal (-)
+4	12	mitsuo_isolate	Y basal (-)	0.06	Y basal (-)
+5	12	mitsuo_isolate	Y basal (-)	0.03	Y basal (-)
+1	1	tride	amypec	0.092	Amylopectin
+2	1	tride	amypec	0.0988	Amylopectin
+3	1	tride	amypec	0.1559	Amylopectin
+4	1	tride	amypec	0.0103	Amylopectin
+1	2	tride	amypec	0.0677	Amylopectin
+2	2	tride	amypec	0.1068	Amylopectin
+3	2	tride	amypec	0.0719	Amylopectin
+4	2	tride	amypec	0.1135	Amylopectin
+1	7	mitsuo_T	amypec	0.197	Amylopectin
+2	7	mitsuo_T	amypec	0.217	Amylopectin
+3	7	mitsuo_T	amypec	0.145	Amylopectin
+4	7	mitsuo_T	amypec	0.183	Amylopectin
+5	7	mitsuo_T	amypec	0.176	Amylopectin
+1	11	mitsuo_isolate	amypec	0.0	Amylopectin
+2	11	mitsuo_isolate	amypec	0.0	Amylopectin
+3	11	mitsuo_isolate	amypec	0.07	Amylopectin
+4	11	mitsuo_isolate	amypec	0.04	Amylopectin
+5	11	mitsuo_isolate	amypec	0.03	Amylopectin
+1	3	tride	ara	0.0594	Arabinan
+2	3	tride	ara	0.1155	Arabinan
+3	3	tride	ara	0.0804	Arabinan
+4	3	tride	ara	0.0601	Arabinan
+1	7	mitsuo_T	ara	0.221	Arabinan
+2	7	mitsuo_T	ara	0.269	Arabinan
+3	7	mitsuo_T	ara	0.223	Arabinan
+4	7	mitsuo_T	ara	0.272	Arabinan
+5	7	mitsuo_T	ara	0.278	Arabinan
+1	11	mitsuo_isolate	ara	0.0	Arabinan
+2	11	mitsuo_isolate	ara	0.04	Arabinan
+3	11	mitsuo_isolate	ara	0.11	Arabinan
+4	11	mitsuo_isolate	ara	0.03	Arabinan
+5	11	mitsuo_isolate	ara	0.01	Arabinan
+1	1	tride	aragal	0.0139	Arabinogalactan
+2	1	tride	aragal	0.0309	Arabinogalactan
+3	1	tride	aragal	0.0077	Arabinogalactan
+4	1	tride	aragal	0.0737	Arabinogalactan
+1	2	tride	aragal	0.0815	Arabinogalactan
+2	2	tride	aragal	0.0983	Arabinogalactan
+3	2	tride	aragal	0.0793	Arabinogalactan
+4	2	tride	aragal	0.1561	Arabinogalactan
+1	7	mitsuo_T	aragal	0.18	Arabinogalactan
+2	7	mitsuo_T	aragal	0.24	Arabinogalactan
+3	7	mitsuo_T	aragal	0.25	Arabinogalactan
+4	7	mitsuo_T	aragal	0.194	Arabinogalactan
+5	7	mitsuo_T	aragal	0.237	Arabinogalactan
+1	11	mitsuo_isolate	aragal	0.0	Arabinogalactan
+2	11	mitsuo_isolate	aragal	0.02	Arabinogalactan
+3	11	mitsuo_isolate	aragal	0.0	Arabinogalactan
+4	11	mitsuo_isolate	aragal	0.0	Arabinogalactan
+5	11	mitsuo_isolate	aragal	0.09	Arabinogalactan
+1	3	tride	araxyl	0.1092	Arabinoxylan
+2	3	tride	araxyl	0.0832	Arabinoxylan
+3	3	tride	araxyl	0.0739	Arabinoxylan
+4	3	tride	araxyl	0.0574	Arabinoxylan
+1	7	mitsuo_T	araxyl	0.212	Arabinoxylan
+2	7	mitsuo_T	araxyl	0.188	Arabinoxylan
+3	7	mitsuo_T	araxyl	0.199	Arabinoxylan
+4	7	mitsuo_T	araxyl	0.138	Arabinoxylan
+5	7	mitsuo_T	araxyl	0.19	Arabinoxylan
+1	11	mitsuo_isolate	araxyl	0.04	Arabinoxylan
+2	11	mitsuo_isolate	araxyl	0.05	Arabinoxylan
+3	11	mitsuo_isolate	araxyl	0.07	Arabinoxylan
+4	11	mitsuo_isolate	araxyl	0.06	Arabinoxylan
+5	11	mitsuo_isolate	araxyl	0.01	Arabinoxylan
+1	4	tride	cellu	0.1478	Cellulose (carboxymethylated)
+2	4	tride	cellu	0.2111	Cellulose (carboxymethylated)
+3	4	tride	cellu	0.2197	Cellulose (carboxymethylated)
+4	4	tride	cellu	0.147	Cellulose (carboxymethylated)
+1	5	tride	cellu	0.1297	Cellulose (carboxymethylated)
+2	5	tride	cellu	0.1759	Cellulose (carboxymethylated)
+3	5	tride	cellu	0.2907	Cellulose (carboxymethylated)
+4	5	tride	cellu	0.261	Cellulose (carboxymethylated)
+5	5	tride	cellu	0.3374	Cellulose (carboxymethylated)
+1	6	tride	cellu	0.0771	Cellulose (carboxymethylated)
+2	6	tride	cellu	0.1132	Cellulose (carboxymethylated)
+3	6	tride	cellu	0.1739	Cellulose (carboxymethylated)
+4	6	tride	cellu	0.2418	Cellulose (carboxymethylated)
+5	6	tride	cellu	0.2678	Cellulose (carboxymethylated)
+1	9	mitsuo_T	cellu	0.1804	Cellulose (carboxymethylated)
+2	9	mitsuo_T	cellu	0.1875	Cellulose (carboxymethylated)
+3	9	mitsuo_T	cellu	0.1259	Cellulose (carboxymethylated)
+4	9	mitsuo_T	cellu	0.1038	Cellulose (carboxymethylated)
+5	9	mitsuo_T	cellu	0.177	Cellulose (carboxymethylated)
+1	12	mitsuo_isolate	cellu	0.07	Cellulose (carboxymethylated)
+2	12	mitsuo_isolate	cellu	0.13	Cellulose (carboxymethylated)
+3	12	mitsuo_isolate	cellu	0.13	Cellulose (carboxymethylated)
+4	12	mitsuo_isolate	cellu	0.15	Cellulose (carboxymethylated)
+5	12	mitsuo_isolate	cellu	0.02	Cellulose (carboxymethylated)
+1	3	tride	fos	0.3899	Fructooligosaccharides
+2	3	tride	fos	0.354	Fructooligosaccharides
+3	3	tride	fos	0.3486	Fructooligosaccharides
+4	3	tride	fos	0.3608	Fructooligosaccharides
+1	4	tride	fos	0.3461	Fructooligosaccharides
+2	4	tride	fos	0.2989	Fructooligosaccharides
+3	4	tride	fos	0.2841	Fructooligosaccharides
+4	4	tride	fos	0.2575	Fructooligosaccharides
+1	5	tride	fos	0.3267	Fructooligosaccharides
+2	5	tride	fos	0.3273	Fructooligosaccharides
+3	5	tride	fos	0.2576	Fructooligosaccharides
+4	5	tride	fos	0.2735	Fructooligosaccharides
+1	6	tride	fos	0.3996	Fructooligosaccharides
+2	6	tride	fos	0.4574	Fructooligosaccharides
+3	6	tride	fos	0.3932	Fructooligosaccharides
+4	6	tride	fos	0.366	Fructooligosaccharides
+1	7	mitsuo_T	fos	0.371	Fructooligosaccharides
+2	7	mitsuo_T	fos	0.402	Fructooligosaccharides
+3	7	mitsuo_T	fos	0.593	Fructooligosaccharides
+4	7	mitsuo_T	fos	0.364	Fructooligosaccharides
+5	7	mitsuo_T	fos	0.625	Fructooligosaccharides
+1	11	mitsuo_isolate	fos	0.47	Fructooligosaccharides
+2	11	mitsuo_isolate	fos	0.24	Fructooligosaccharides
+3	11	mitsuo_isolate	fos	0.6	Fructooligosaccharides
+4	11	mitsuo_isolate	fos	0.3	Fructooligosaccharides
+5	11	mitsuo_isolate	fos	0.44	Fructooligosaccharides
+1	6	tride	fructose	0.7982	fructose
+2	6	tride	fructose	0.7371	fructose
+3	6	tride	fructose	0.6894	fructose
+4	6	tride	fructose	0.7165	fructose
+1	7	mitsuo_T	fructose	0.357	fructose
+2	7	mitsuo_T	fructose	0.653	fructose
+3	7	mitsuo_T	fructose	0.605	fructose
+4	7	mitsuo_T	fructose	0.769	fructose
+5	7	mitsuo_T	fructose	0.686	fructose
+1	11	mitsuo_isolate	fructose	0.47	fructose
+2	11	mitsuo_isolate	fructose	0.32	fructose
+3	11	mitsuo_isolate	fructose	0.27	fructose
+4	11	mitsuo_isolate	fructose	0.4	fructose
+5	11	mitsuo_isolate	fructose	0.16	fructose
+1	3	tride	gal	0.0863	Galactan
+2	3	tride	gal	0.085	Galactan
+3	3	tride	gal	0.0931	Galactan
+4	3	tride	gal	0.0875	Galactan
+1	7	mitsuo_T	gal	0.232	Galactan
+2	7	mitsuo_T	gal	0.269	Galactan
+3	7	mitsuo_T	gal	0.257	Galactan
+4	7	mitsuo_T	gal	0.292	Galactan
+5	7	mitsuo_T	gal	0.276	Galactan
+1	11	mitsuo_isolate	gal	0.09	Galactan
+2	11	mitsuo_isolate	gal	0.0	Galactan
+3	11	mitsuo_isolate	gal	0.03	Galactan
+4	11	mitsuo_isolate	gal	0.0	Galactan
+5	11	mitsuo_isolate	gal	0.02	Galactan
+1	1	tride	galman	0.0519	Galactomannan
+2	1	tride	galman	0.0	Galactomannan
+3	1	tride	galman	0.1103	Galactomannan
+4	1	tride	galman	0.1383	Galactomannan
+1	2	tride	galman	0.1011	Galactomannan
+2	2	tride	galman	0.1164	Galactomannan
+3	2	tride	galman	0.0234	Galactomannan
+4	2	tride	galman	0.171	Galactomannan
+1	9	mitsuo_T	galman	0.1471	Galactomannan
+2	9	mitsuo_T	galman	0.1571	Galactomannan
+3	9	mitsuo_T	galman	0.1196	Galactomannan
+4	9	mitsuo_T	galman	0.1955	Galactomannan
+5	9	mitsuo_T	galman	0.1533	Galactomannan
+1	12	mitsuo_isolate	galman	0.0	Galactomannan
+2	12	mitsuo_isolate	galman	0.03	Galactomannan
+3	12	mitsuo_isolate	galman	0.0	Galactomannan
+4	12	mitsuo_isolate	galman	0.0	Galactomannan
+5	12	mitsuo_isolate	galman	0.02	Galactomannan
+1	4	tride	gluman	0.2122	Glucomannan (4C)
+2	4	tride	gluman	0.0679	Glucomannan (4C)
+3	4	tride	gluman	0.1497	Glucomannan (4C)
+4	4	tride	gluman	0.0	Glucomannan (4C)
+1	5	tride	gluman	0.2342	Glucomannan (4C)
+2	5	tride	gluman	0.2274	Glucomannan (4C)
+3	5	tride	gluman	0.1886	Glucomannan (4C)
+4	5	tride	gluman	0.2161	Glucomannan (4C)
+5	5	tride	gluman	0.0755	Glucomannan (4C)
+1	6	tride	gluman	0.1305	Glucomannan (4C)
+2	6	tride	gluman	0.2102	Glucomannan (4C)
+3	6	tride	gluman	0.0238	Glucomannan (4C)
+4	6	tride	gluman	0.0	Glucomannan (4C)
+5	6	tride	gluman	0.0593	Glucomannan (4C)
+1	9	mitsuo_T	gluman	0.2567	Glucomannan (4C)
+2	9	mitsuo_T	gluman	0.2049	Glucomannan (4C)
+3	9	mitsuo_T	gluman	0.1711	Glucomannan (4C)
+4	9	mitsuo_T	gluman	0.1696	Glucomannan (4C)
+1	12	mitsuo_isolate	gluman	0.11	Glucomannan (4C)
+2	12	mitsuo_isolate	gluman	0.07	Glucomannan (4C)
+3	12	mitsuo_isolate	gluman	0.11	Glucomannan (4C)
+4	12	mitsuo_isolate	gluman	0.07	Glucomannan (4C)
+5	12	mitsuo_isolate	gluman	0.1	Glucomannan (4C)
+1	3	tride	inu	0.0253	Inulin*
+2	3	tride	inu	0.0763	Inulin*
+3	3	tride	inu	0.0913	Inulin*
+4	3	tride	inu	0.0956	Inulin*
+1	7	mitsuo_T	inu	0.251	Inulin*
+2	7	mitsuo_T	inu	0.287	Inulin*
+3	7	mitsuo_T	inu	0.224	Inulin*
+4	7	mitsuo_T	inu	0.232	Inulin*
+5	7	mitsuo_T	inu	0.25	Inulin*
+1	11	mitsuo_isolate	inu	0.49	Inulin*
+2	11	mitsuo_isolate	inu	0.39	Inulin*
+3	11	mitsuo_isolate	inu	0.53	Inulin*
+4	11	mitsuo_isolate	inu	0.56	Inulin*
+5	11	mitsuo_isolate	inu	0.28	Inulin*
+1	5	tride	man_P	0.0186	Mannan_plant
+2	5	tride	man_P	0.1406	Mannan_plant
+3	5	tride	man_P	0.1566	Mannan_plant
+4	5	tride	man_P	0.0833	Mannan_plant
+5	5	tride	man_P	0.1329	Mannan_plant
+1	6	tride	man_P	0.0758	Mannan_plant
+2	6	tride	man_P	0.089	Mannan_plant
+3	6	tride	man_P	0.0369	Mannan_plant
+4	6	tride	man_P	0.0823	Mannan_plant
+5	6	tride	man_P	0.0	Mannan_plant
+1	9	mitsuo_T	man_P	0.0327	Mannan_plant
+2	9	mitsuo_T	man_P	0.0172	Mannan_plant
+3	9	mitsuo_T	man_P	0.0052	Mannan_plant
+4	9	mitsuo_T	man_P	0.0357	Mannan_plant
+5	9	mitsuo_T	man_P	0.017	Mannan_plant
+1	12	mitsuo_isolate	man_P	0.01	Mannan_plant
+2	12	mitsuo_isolate	man_P	0.02	Mannan_plant
+3	12	mitsuo_isolate	man_P	0.0	Mannan_plant
+4	12	mitsuo_isolate	man_P	0.3	Mannan_plant
+5	12	mitsuo_isolate	man_P	0.0	Mannan_plant
+1	3	tride	pec	0.1033	Pectin
+2	3	tride	pec	0.091	Pectin
+3	3	tride	pec	0.0682	Pectin
+4	3	tride	pec	0.0939	Pectin
+1	8	mitsuo_T	pec	0.1625	Pectin
+2	8	mitsuo_T	pec	0.1743	Pectin
+3	8	mitsuo_T	pec	0.205	Pectin
+4	8	mitsuo_T	pec	0.1738	Pectin
+5	8	mitsuo_T	pec	0.1794	Pectin
+1	10	mitsuo_isolate	pec	0.12	Pectin
+2	10	mitsuo_isolate	pec	0.26	Pectin
+3	10	mitsuo_isolate	pec	0.09	Pectin
+4	10	mitsuo_isolate	pec	0.11	Pectin
+5	10	mitsuo_isolate	pec	0.06	Pectin
+1	1	tride	star_un	0.0	Starch_unmodified
+2	1	tride	star_un	0.0	Starch_unmodified
+3	1	tride	star_un	0.0014	Starch_unmodified
+4	1	tride	star_un	0.0	Starch_unmodified
+1	2	tride	star_un	0.1011	Starch_unmodified
+2	2	tride	star_un	0.0629	Starch_unmodified
+3	2	tride	star_un	0.0423	Starch_unmodified
+4	2	tride	star_un	0.0469	Starch_unmodified
+1	8	mitsuo_T	star_un	0.1211	Starch_unmodified
+2	8	mitsuo_T	star_un	0.0825	Starch_unmodified
+3	8	mitsuo_T	star_un	0.0955	Starch_unmodified
+4	8	mitsuo_T	star_un	0.0844	Starch_unmodified
+5	8	mitsuo_T	star_un	0.1039	Starch_unmodified
+1	10	mitsuo_isolate	star_un	0.04	Starch_unmodified
+2	10	mitsuo_isolate	star_un	0.03	Starch_unmodified
+3	10	mitsuo_isolate	star_un	0.02	Starch_unmodified
+4	10	mitsuo_isolate	star_un	0.01	Starch_unmodified
+5	10	mitsuo_isolate	star_un	0.03	Starch_unmodified
+1	1	tride	star	0.0684	Starch
+2	1	tride	star	0.0562	Starch
+3	1	tride	star	0.0966	Starch
+4	1	tride	star	0.0	Starch
+1	2	tride	star	0.1106	Starch
+2	2	tride	star	0.1022	Starch
+3	2	tride	star	0.0926	Starch
+4	2	tride	star	0.1077	Starch
+1	8	mitsuo_T	star	0.2075	Starch
+2	8	mitsuo_T	star	0.1641	Starch
+3	8	mitsuo_T	star	0.1021	Starch
+4	8	mitsuo_T	star	0.1982	Starch
+5	8	mitsuo_T	star	0.1405	Starch
+1	11	mitsuo_isolate	star	0.02	Starch
+2	11	mitsuo_isolate	star	0.11	Starch
+3	11	mitsuo_isolate	star	0.09	Starch
+4	11	mitsuo_isolate	star	0.0	Starch
+5	11	mitsuo_isolate	star	0.01	Starch
+1	3	tride	xos_B	0.1038	Xylan_beechwood
+2	3	tride	xos_B	0.0854	Xylan_beechwood
+3	3	tride	xos_B	0.0641	Xylan_beechwood
+4	3	tride	xos_B	0.0282	Xylan_beechwood
+1	8	mitsuo_T	xos_B	0.1537	Xylan_beechwood
+2	8	mitsuo_T	xos_B	0.0988	Xylan_beechwood
+3	8	mitsuo_T	xos_B	0.0678	Xylan_beechwood
+4	8	mitsuo_T	xos_B	0.0898	Xylan_beechwood
+5	8	mitsuo_T	xos_B	0.1191	Xylan_beechwood
+1	10	mitsuo_isolate	xos_B	0.14	Xylan_beechwood
+2	10	mitsuo_isolate	xos_B	0.11	Xylan_beechwood
+3	10	mitsuo_isolate	xos_B	0.06	Xylan_beechwood
+4	10	mitsuo_isolate	xos_B	0.08	Xylan_beechwood
+5	10	mitsuo_isolate	xos_B	0.1	Xylan_beechwood
+1	3	tride	xos_C	0.1123	Xylooligosaccharides
+2	3	tride	xos_C	0.0644	Xylooligosaccharides
+3	3	tride	xos_C	0.0895	Xylooligosaccharides
+4	3	tride	xos_C	0.1091	Xylooligosaccharides
+1	8	mitsuo_T	xos_C	0.1189	Xylooligosaccharides
+2	8	mitsuo_T	xos_C	0.1962	Xylooligosaccharides
+3	8	mitsuo_T	xos_C	0.1334	Xylooligosaccharides
+4	8	mitsuo_T	xos_C	0.1746	Xylooligosaccharides
+5	8	mitsuo_T	xos_C	0.3749	Xylooligosaccharides
+1	10	mitsuo_isolate	xos_C	0.35	Xylooligosaccharides
+2	10	mitsuo_isolate	xos_C	0.19	Xylooligosaccharides
+3	10	mitsuo_isolate	xos_C	0.02	Xylooligosaccharides
+4	10	mitsuo_isolate	xos_C	0.08	Xylooligosaccharides
+5	10	mitsuo_isolate	xos_C	0.0	Xylooligosaccharides
+1	1	tride	Bgluc_O	0.0767	β-glucan_oat
+2	1	tride	Bgluc_O	0.0155	β-glucan_oat
+3	1	tride	Bgluc_O	0.065	β-glucan_oat
+4	1	tride	Bgluc_O	0.0	β-glucan_oat
+1	2	tride	Bgluc_O	0.211	β-glucan_oat
+2	2	tride	Bgluc_O	0.1024	β-glucan_oat
+3	2	tride	Bgluc_O	0.1183	β-glucan_oat
+4	2	tride	Bgluc_O	0.1393	β-glucan_oat
+1	9	mitsuo_T	Bgluc_O	0.0848	β-glucan_oat
+2	9	mitsuo_T	Bgluc_O	0.1203	β-glucan_oat
+3	9	mitsuo_T	Bgluc_O	0.3069	β-glucan_oat
+4	9	mitsuo_T	Bgluc_O	0.1444	β-glucan_oat
+5	9	mitsuo_T	Bgluc_O	0.1758	β-glucan_oat
+1	12	mitsuo_isolate	Bgluc_O	0.19	β-glucan_oat
+2	12	mitsuo_isolate	Bgluc_O	0.1	β-glucan_oat
+3	12	mitsuo_isolate	Bgluc_O	0.17	β-glucan_oat
+4	12	mitsuo_isolate	Bgluc_O	0.07	β-glucan_oat
+5	12	mitsuo_isolate	Bgluc_O	0.08	β-glucan_oat
